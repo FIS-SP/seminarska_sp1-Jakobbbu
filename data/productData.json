@@ -1,0 +1,112 @@
+{
+    "products": [
+            {
+            "name": "Hladilnik Candy CSC1365",
+            "stars": 4,
+            "imageUrl": "https://d15v10x8t3bz3x.cloudfront.net/Immagini/2020/7/15948054/640-1_34004577_15_01_f_csc1365ben-M.jpg",
+            "category": "Hladilniki",
+            "onSale": true,
+            "price": 600,
+            "discountPrice": 530
+            },
+                        {
+            "name": "Hladilnik Candy COMFORT",
+            "stars": 4,
+            "imageUrl": "https://d15v10x8t3bz3x.cloudfront.net/Immagini/2018/9/15374451/40-34001960%20CCBF%205172WH-F-45382-M.jpg",
+            "category": "Hladilniki",
+            "onSale": true,
+            "price": 565,
+            "discountPrice":  480
+            },
+                        {
+            "name": "Hladilnik Gorenje NRK18",
+            "stars": 3,
+            "imageUrl": "https://www.bigbang.si/upload/catalog/product/919654/thumb/9671fdf50999eb44cfadcb5ebc841da2b21bc3633499a6dd18_60d2e2f98cce0_640x640r.webp",
+            "category": "Hladilniki",
+            "onSale": false,
+            "price": 590,
+            "discountPrice": 590
+            },
+                        {
+            "name": "Hladilnik Samsung ICE",
+            "stars": 5,
+            "imageUrl": "https://media.ao.com/en-GB/Productimages/Images/rvMedium/7ocgqyyefe7zneucebiurk-samsung_rl4363sbab1__m_p.jpg",
+            "category": "Hladilniki",
+            "onSale": false,
+            "price": 820,
+            "discountPrice": 820
+            },
+                        {
+            "name": "Pralni stroj Samsung",
+            "stars": 5,
+            "imageUrl": "https://media.ao.com/en-GB/Productimages/Images/rvMedium/eapngzznpxhada7tqozlck-ww90ta046ax_gh_samsu_m_p.jpg",
+            "category": "Pralni stroji",
+            "onSale": false,
+            "price": 634,
+            "discountPrice": 634
+            },
+                        {
+            "name": "Pralni stroj Bosch",
+            "stars": 5,
+            "imageUrl": "https://media.ao.com/en-GB/Productimages/Images/rvMedium/qxbpqfn6gqbav8jeoapdtf-wgg2449rgb_gy_bosch__m_p.jpg",
+            "category": "Pralni stroji",
+            "onSale": true,
+            "price": 740,
+            "discountPrice": 659
+            },
+                        {
+            "name": "Pralni stroj Candy",
+            "stars": 4,
+            "imageUrl": "https://d15v10x8t3bz3x.cloudfront.net/Immagini/2020/5/15901431/640-1_31010978_09_01_f_cso14103twce-80-M.jpg",
+            "category": "Pralni stroji",
+            "onSale": false,
+            "price": 540,
+            "discountPrice": 540
+            },
+                        {
+            "name": "Pralni stroj Candy dark",
+            "stars": 5,
+            "imageUrl": "https://d15v10x8t3bz3x.cloudfront.net/Immagini/2020/8/15982661/640-1_31010950_09_01_f_cs%20148tbbe1-80-3833-M.jpg",
+            "category": "Pralni stroji",
+            "onSale": false,
+            "price": 620,
+            "discountPrice": 620
+            },
+                        {
+            "name": "Sesalec Philips active",
+            "stars": 5,
+            "imageUrl": "https://www.bigbang.si/upload/catalog/product/923827/thumb/3cb62fde351019f94b6d9f2ea14305410f829dc3c7446a6b58_619cb76c12c95_640x640r.webp",
+            "category": "Sesalci",
+            "onSale": true,
+            "price": 230,
+            "discountPrice": 170
+            },
+            {
+            "name": "Sesalec Mielee",
+            "stars": 4,
+            "imageUrl": "https://media.ao.com/en-GB/Productimages/Images/rvMedium/i9b6s9d8wz7ukj5baue7ee-miele_complete%20c3%20pu_m_p.png",
+            "category": "Sesalci",
+            "onSale": true,
+            "price": 190,
+            "discountPrice": 148
+            },
+            {
+            "name": "Sesalec Philips no bag",
+            "stars": 5,
+            "imageUrl": "https://www.bigbang.si/upload/catalog/product/923824/thumb/bb96c39689687d896e202bf9d9d1c901ef4426a18b19c7af18_619cb85b04724_640x640r.webp",
+            "category": "Sesalci",
+            "onSale": false,
+            "price": 260,
+            "discountPrice": 260
+            },
+            {
+            "name": "Sesalec Hoover",
+            "stars": 5,
+            "imageUrl": "https://img.joomcdn.net/d69a00f0f021e0ec83fba54dfa3efa8f8e1c603c_original.jpeg",
+            "category": "Sesalci",
+            "onSale": false,
+            "price": 320,
+            "discountPrice": 320
+            }
+            ]
+}

@@ -1,0 +1,71 @@
+.brand-custom{
+    font-size: 180%;
+    padding:0.75rem 0.9rem 0.75rem 0.9rem;
+    border-radius: 25px;
+    background-color: #f1fcfe;
+}
+
+.font-kanit{
+    font-family: 'Kanit', sans-serif;
+}
+
+.navbar-font{
+    font-size: 110%;
+}
+
+.navbar-custom {
+    background-color: #9eebfa;
+}
+
+.cart-button {
+    background-color: #f1fcfe;
+}
+
+.navbar-nav > li{
+    margin-top: 0.3rem;
+    padding-left:2.6rem;
+    padding-right:0.6rem;
+}
+
+.badge-style {
+    top: 0.5rem;
+    right: 0.5rem;
+}
+
+.badge-product-page {
+    top: 3rem;
+    right: 6.7rem;
+}
+
+.card-product-page {
+    border-width: 0px;
+}
+
+.oldPrice-span {
+    padding-right: 0.7rem;
+}
+.border-test-red {
+    border-style: solid;
+    border-width: 5px;
+    border-color: red;
+}
+
+.border-test-blue {
+    border-style: solid;
+    border-width: 5px;
+    border-color: blue;
+}
+
+.button-add-to-cart {
+    margin-top: 8%;
+}
+
+.padding-top-50 {
+    padding-top: 50%;
+}
+
+.margin-top-50 {
+    margin-top: 50%;
+}
+
+
